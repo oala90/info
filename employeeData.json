@@ -1,0 +1,19 @@
+{"Employee":{
+	"01":{
+     		"name": "Alan",
+     		"bdate": "10/11/2022",
+		"edate": "10/18/2022",
+     		"time": "40",
+		"decision": "yes",
+     		"picture": "http://10.0.2.2:8080/gloton/imagesGloton/taco.png"
+		},
+	"02":{
+     		"name": "Alan",
+     		"bdate": "10/11/2022",
+		"edate": "10/18/2022",
+     		"time": "40",
+		"decision": "yes",
+     		"picture": "http://10.0.2.2:8080/gloton/imagesGloton/taco.png"
+ 	 	}
+	}
+}
